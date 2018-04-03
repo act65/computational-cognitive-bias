@@ -1,4 +1,9 @@
-## Availability heuristic.
+---
+layout: post
+title: Availability heurstics
+category: cognitivebias
+---
+
 (A) Should you be scared of a shark attack when swimming? (given the likelihood, no)
 
 Instead of answering the question properly, you brain swaps it out for something easier. (B) Can I recall an image of a shark attacking a person?
