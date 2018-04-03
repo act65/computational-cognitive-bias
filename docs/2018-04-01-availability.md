@@ -15,3 +15,5 @@ Why do we do this? Question __(A)__ is a hard computational question. Infact, i
 _This requires you to at least perform $\mathcal o(n)$ calculations to aggregate the number of ... Now you need to normalise them to get a likelihood, recalling every time you were in water, someone was in water, ... to get an estimate of_
 
 Instead, of collecting all the proper evidence we can recall, it is far easier to generalise from one mental image. (also related to risk adversity, save compute by just avoiding all risky things period rather than trying to evaluate them accurately)
+
+We could precompute the answers (or get them from a trusted oracle) and store these facts. But this would require a large amuount of space. So we can compress these facts. A nice way of compressing this fact might be to store sharks with other scary looking beasts. Thus taking us back to where we started... 
