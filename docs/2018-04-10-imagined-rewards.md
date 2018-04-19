@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Imagined rewards
+category: cognitivebias
 ---
 
 Typical conditioning set up. Stimulus and reward. However, the reward recieved may be quite delayed compared to the stimulus, making it harder to learn. Two solutions; delay the stimulus, being the reward closer.
